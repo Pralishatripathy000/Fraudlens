@@ -48,4 +48,3 @@ The system processes transaction data, extracts meaningful patterns, and applies
 
 ---
 
-## 📂 Project Structure
