@@ -43,7 +43,6 @@ The system processes transaction data, extracts meaningful patterns, and applies
 
 ### Development Tools
 - Jupyter Notebook
-- VS Code
 - Git & GitHub
 
 ---
