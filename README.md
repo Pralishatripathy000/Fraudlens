@@ -1,4 +1,4 @@
-# FraudLens 💳🔍
+# FraudLens 💳
 ### Intelligent UPI Fraud Detection System using Machine Learning
 
 FraudLens is a machine learning-powered fraud detection system designed to identify suspicious UPI transactions in real time. The project analyzes transaction patterns and behavioral attributes to classify transactions as legitimate or potentially fraudulent, helping improve the security of digital payment ecosystems.
